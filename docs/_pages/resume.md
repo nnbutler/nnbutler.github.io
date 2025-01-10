@@ -10,7 +10,15 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 ---
 
+---
+
 **Entrepreneurial engineer, with 6+ years leadership experience.**
+
+<a href="sandbox:/mnt/data/Nathan_Nyole_Fuller_Resume.md" download="Nathan_Nyole_Fuller_Resume.md">
+<button>Download PDF</button>
+</a>
+
+---
 
 ### Director of Engineering
 
