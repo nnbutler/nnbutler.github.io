@@ -1,0 +1,17 @@
+# /_data/authors.yml
+
+Nathan Butler:
+  name: "Nathan Butler"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am a multi-disciplinary engineer with a passion for learning and creating. I have a degree in Mechanical Engineering, and have spent the last 5 years working in the robotics and automation fields."
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nathan.butler503@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nnbutler"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/nnbutler/"

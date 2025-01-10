@@ -1,0 +1,35 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.icon-container {
+  display: flex; /* Use flexbox to arrange icons */
+  justify-content: center; /* Center icons horizontally */
+  align-items: center; /* Center icons vertically */
+  gap: 16px; /* Add space between icons */
+  margin: 0 auto; /* Center the entire container */
+}
+
+.adaptive-icon {
+  width: 50px; /* Default width */
+  //max-width: 48px; /* Adjust size of icons */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.profile-container {
+  display: flex; /* Align items in a row */
+  align-items: center; /* Center items vertically */
+  gap: 16px; /* Space between the image and heading */
+  padding: 16px; /* Add some padding around the container */
+}
+.profile-image {
+  width: 100px; /* Set the width of the image */
+  height: 100px; /* Set the height of the image */
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover; /* Ensure the image scales nicely */
+}
