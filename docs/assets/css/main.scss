@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
@@ -20,4 +19,17 @@ search: false
   width: 50px; /* Default width */
   //max-width: 48px; /* Adjust size of icons */
   height: auto; /* Maintain aspect ratio */
+}
+
+.profile-container {
+  display: flex; /* Align items in a row */
+  align-items: center; /* Center items vertically */
+  gap: 16px; /* Space between the image and heading */
+  padding: 16px; /* Add some padding around the container */
+}
+.profile-image {
+  width: 100px; /* Set the width of the image */
+  height: 100px; /* Set the height of the image */
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover; /* Ensure the image scales nicely */
 }
