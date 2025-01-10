@@ -1,22 +1,68 @@
 ---
 permalink: /resume/
 author: Nathan Butler
-layout: splash
+layout: single
 classes: wide
-author_profile: false
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+
+sidebar:
+  - title: "Nathan Butler"
+    image: "/assets/images/bio-photo.jpg"
+    image_alt: "image"
+    text: "Full-Stack robotics engineer, mechanical design to software development, and prototype to production automation."
+  - title: "Education"
+    text: "B.S. in Mechanical Engineering, Oregon State University"
+  - title: "Skills"
+    text: "PLC Controls<br>
+      Mechanical Design<br>
+      Software Development<br>
+      Design for Manufacture<br>
+      Electronics Prototyping<br>
+      Industrial Robotics Programming<br>
+      3D Printing<br>
+      Manual Machining<br>
+      MIG Welding<br>
+      CNC Operation<br>
+      Web Development<br>
+      Public Speaking<br>
+      Project Management<br>
+      Product Management<br>
+      Team Building"
+  - title: "Applications"
+    text: "Inventor - Advanced<br>
+      TwinCAT3<br>
+      AutoCAD<br>
+      Solidworks<br>
+      NX<br>
+      Creo<br>
+      Fusion 360 - Advanced<br>
+      Fusion 360 CAM<br>
+      Fusion 360 FEA<br>
+      Rhino<br>
+      Google Docs<br>
+      Excel<br>
+      Git
+      "
+  - title: "Programming Languages"
+    text: "IEC 61131-3 (Ladder, Structured Text preferred)<br>
+      Python<br>
+      Processing<br>
+      Matlab<br>
+      C#<br>
+      HTML/CSS"
 ---
 
+<div class="icon-container">
+  <a href="{{ site.url }}/assets/files/Resume.pdf" download="Resume.pdf">
+    <img src="{{ site.url }}/assets/icons/PDF-icon.svg" alt="Download Resume 1" class="adaptive-icon">
+  </a>
+  <a href="https://www.linkedin.com/in/nnbutler/">
+    <img src="{{ site.url }}/assets/icons/LinkedIn-icon.svg" alt="Download Resume 2" class="adaptive-icon">
+  </a>
+</div>
+
 ---
 
-**Entrepreneurial engineer, with 6+ years leadership experience.**
-
-<a href="sandbox:/mnt/data/Nathan_Nyole_Fuller_Resume.md" download="Nathan_Nyole_Fuller_Resume.md">
-<button>Download PDF</button>
-</a>
+# Employment History
 
 ---
 
