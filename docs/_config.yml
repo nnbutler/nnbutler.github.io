@@ -28,10 +28,11 @@ url: "https://nnbutler.github.io" # the base hostname & protocol for your site, 
 github_username: nnbutler
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_pages"]
 # Exclude from processing.
