@@ -71,7 +71,9 @@ sidebar:
 **Apr 2024 - Present**  
 **Timberline Automation and Control Co** - _Washougal, WA_
 
-Lead the Engineering and Integration Division to deliver custom robotic solutions for both startups and fortune 500 customers.
+- Lead the Engineering and Integration Division to deliver custom robotic solutions for both startups and fortune 500 customers.
+- Developed system architectures from the ground up, for real and simulated data, scalable to a fleet of systems.
+- Technologies included: Beckhoff TwinCAT, Structured Text, InfluxDB, ROS, Python, Docker, and Nvidia Omniverse.
 
 ---
 

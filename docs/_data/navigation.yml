@@ -6,3 +6,15 @@ main:
     url: /resume/
   - title: "Portfolio"
     url: /portfolio/
+
+docs:
+  - title: Portfolio Projects
+    children:
+      - title: "5 Axis Autonomous Car Wash"
+        url: /portfolio/#5-axis-autonomous-car-wash-2019-2022
+      - title: "Thermoplastic Extruder for Large Format 3D Printing"
+        url: /portfolio/#thermoplastic-extruder-for-large-format-3d-printing-2017-2018
+      - title: "Waterless Concrete Printer for NASA Centennial Challenge"
+        url: /portfolio/#waterless-concrete-printer-for-nasa-centennial-challenge-2017
+      - title: "Hybrid Desktop Manufacturing Tool"
+        url: /portfolio/#world-first-hybrid-desktop-manufacturing-tool-2014-2015
