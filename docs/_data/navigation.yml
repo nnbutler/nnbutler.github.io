@@ -6,3 +6,21 @@ main:
     url: /resume/
   - title: "Portfolio"
     url: /portfolio/
+
+docs:
+  - title: Portfolio Projects
+    children:
+      - title: "Stealth Mode Startup"
+        url: /portfolio/#stealth-mode-startup-2024-present
+      - title: "CarWash AntiCollision System"
+        url: /portfolio/#carwash-anti-collision-system-2022-2024
+      - title: "5 Axis Autonomous Car Wash"
+        url: /portfolio/#5-axis-autonomous-car-wash-2019-2022
+      - title: "Extruder for Large Format 3D Printing"
+        url: /portfolio/#thermoplastic-extruder-for-large-format-3d-printing-2017-2018
+      - title: "3D Printer for NASA Centennial Challenge"
+        url: /portfolio/#waterless-concrete-printer-for-nasa-centennial-challenge-2017
+      - title: "Hybrid Desktop Manufacturing Tool"
+        url: /portfolio/#world-first-hybrid-desktop-manufacturing-tool-2014-2015
+      - title: "Micro Textures for Composite Adhesion"
+        url: /portfolio/#micro-textures-for-composite-adhesion-2014

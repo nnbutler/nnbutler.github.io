@@ -12,13 +12,15 @@ sidebar:
   - title: "Education"
     text: "B.S. in Mechanical Engineering, Oregon State University"
   - title: "Skills"
-    text: "PLC Controls<br>
-      Mechanical Design<br>
+    text: "
+      System Architecture<br>
       Software Development<br>
+      PLC Controls<br>
+      Mechanical Design<br>
+      3D Printing<br>
+      Industrial Robotics Programming<br>
       Design for Manufacture<br>
       Electronics Prototyping<br>
-      Industrial Robotics Programming<br>
-      3D Printing<br>
       Manual Machining<br>
       MIG Welding<br>
       CNC Operation<br>
@@ -29,18 +31,18 @@ sidebar:
       Team Building"
   - title: "Applications"
     text: "Inventor - Advanced<br>
-      TwinCAT3<br>
+      Fusion 360 - Advanced<br>
+      TwinCAT3 - Advanced<br>
+      Git<br>
       AutoCAD<br>
       Solidworks<br>
       NX<br>
       Creo<br>
-      Fusion 360 - Advanced<br>
       Fusion 360 CAM<br>
       Fusion 360 FEA<br>
       Rhino<br>
       Google Docs<br>
       Excel<br>
-      Git
       "
   - title: "Programming Languages"
     text: "IEC 61131-3 (Ladder, Structured Text preferred)<br>
@@ -48,11 +50,12 @@ sidebar:
       Processing<br>
       Matlab<br>
       C#<br>
+      C++<br>
       HTML/CSS"
 ---
 
 <div class="icon-container">
-  <a href="{{ site.url }}/assets/files/Resume.pdf" download="Resume.pdf">
+  <a href="{{ site.url }}/assets/files/Nathan_Butler_Resume.pdf" download="Resume.pdf">
     <img src="{{ site.url }}/assets/icons/PDF-icon.svg" alt="Download Resume 1" class="adaptive-icon">
   </a>
   <a href="https://www.linkedin.com/in/nnbutler/">
@@ -71,7 +74,9 @@ sidebar:
 **Apr 2024 - Present**  
 **Timberline Automation and Control Co** - _Washougal, WA_
 
-Lead the Engineering and Integration Division to deliver custom robotic solutions for both startups and fortune 500 customers.
+- Lead the Engineering and Integration Division to deliver custom robotic solutions for both startups and fortune 500 customers.
+- Developed system architectures from the ground up, for real and simulated data, scalable to a fleet of systems.
+- Technologies included: Beckhoff TwinCAT, Structured Text, InfluxDB, ROS, Python, Docker, and Nvidia Omniverse.
 
 ---
 
