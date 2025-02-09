@@ -11,11 +11,15 @@ header:
   image: /assets/images/Projects_Banner.jpg
 ---
 
-<!-- # Portfolio Projects
+<!-- # Portfolio Projects -->
 
-SOme text -->
+## Stealth Mode Startup (2024-Present)
 
-## Carwash Anti-Collision System
+Developed custom industrial automation architectures with integrations with ROS and NVIDIA Omniverse. Leveraged OOP based principles inside Beckhoff TwinCAT to deliver a custom solution on-site with fortune 500 customer. Designed and fabricated custom showcase solution for ProMat 2025 in Chicago. System set best in class records in the material handling a logistics automation space.
+
+[Lab0 Website](https://lab0.com/)
+
+## Carwash Anti-Collision System (2022-2024)
 
 <iframe width="280" height="157" src="https://www.youtube.com/embed/vCeV7eYsxxY?si=-5obloVK7JLoQydf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
